@@ -1,5 +1,5 @@
 # sunnstor.github.io
-[yoga.html](https://github.com/user-attachments/files/34546914/yoga.html)
+
 <!DOCTYPE html>
 
 <html>
